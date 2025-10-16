@@ -30,7 +30,7 @@ Di seguito riporto degli screenshot esemplificativi dei mockup.
 
 ## DomuNet Home:
 
-<table>
+<table width="100%">
     <tr>
         <td width="50%">
             <img src="screenshots/homepage.png">
