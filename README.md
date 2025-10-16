@@ -33,7 +33,7 @@ Di seguito riporto degli screenshot esemplificativi dei mockup.
 <table width="100%" align="center">
     <tr>
         <td width="50%">
-            <img src="screenshots/homepage.png">
+            <img src="screenshots/homepage.png" width="100%">
         </td>
         <td width="50%">
             <img src="screenshots/dashboard.png">
