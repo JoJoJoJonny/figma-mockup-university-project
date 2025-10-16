@@ -1,6 +1,7 @@
 
 ---
 
+
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JoJoJoJonny/figma-mockup-university-project/blob/main/img/logo%20DomuNet%20bianco%20senza%20sfondo.png" />
@@ -26,7 +27,49 @@ Di seguito riporto degli screenshot esemplificativi dei mockup.
 
 ![dark mode overview](screenshots/dark-mode-overview.png)
 
-## DomuNet Home:
+<svg xmlns="http://www.w3.org/2000/svg">
+    <style>
+        table{
+            border: none;
+        }
+
+        h2{
+            color: red;
+        }
+    </style>
+
+
+    <h2> DomuNet Home: </h2>
+
+    <table>
+        <tr>
+            <td>
+                <img src="screenshots/homepage.png">
+            </td>
+            <td>
+                <img src="screenshots/dashboard.png">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="screenshots/stanze.png">
+            </td>
+            <td>
+                <img src="screenshots/statistiche.png">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="screenshots/notifiche.png">
+            </td>
+            <td>
+                <img src="screenshots/dispositivi.png">
+            </td>
+        </tr>
+    </table>
+
+</svg>
+
 
 |![homepage](screenshots/homepage.png)|![dashboard](screenshots/dashboard.png)|
 |-----|-----|
