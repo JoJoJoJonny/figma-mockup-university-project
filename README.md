@@ -5,7 +5,7 @@
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="img/logo DomuNet bianco senza sfondo.png" />
         <source media="(prefers-color-scheme: light)" srcset="img/logo DomuNet nero senza sfondo.png" />
-        <img src="img/logo DomuNet bianco senza sfondo.png"/>
+        
     </picture>
 </p>
 
