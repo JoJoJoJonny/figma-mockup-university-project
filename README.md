@@ -55,15 +55,25 @@ Di seguito riporto degli screenshot esemplificativi dei mockup.
     </tr>
 </table>
 
-
-|![homepage](screenshots/homepage.png)|![dashboard](screenshots/dashboard.png)|
-|-----|-----|
-|![stanze](screenshots/stanze.png)|![statistiche](screenshots/statistiche.png)|
-|![notifiche](screenshots/notifiche.png)|![dispositivi](screenshots/dispositivi.png)|
-
 ## DomuNet Community:
-|![community](screenshots/community.png)|![forum](screenshots/forum.png)|
-|-----|-----|
-|![leaderboard](screenshots/leaderboard.png)|![learn](screenshots/learn.png)|
+
+<table width="100%" align="center" border="0" style="border: none;">
+    <tr>
+        <td width="33%">
+            <img src="screenshots/community.png" width="100%">
+        </td>
+        <td width="33%">
+            <img src="screenshots/forum.png" width="100%">
+        </td>
+    </tr>
+    <tr>
+        <td width="33%">
+            <img src="screenshots/leaderboard.png" width="100%">
+        </td>
+        <td width="33%">
+            <img src="screenshots/learn.png" width="100%">
+        </td>
+    </tr>
+</table>
 
 ---
