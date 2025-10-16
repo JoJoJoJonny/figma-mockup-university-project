@@ -27,8 +27,8 @@ Di seguito riporto degli screenshot esemplificativi dei mockup.
 
 ![dark mode overview](screenshots/dark-mode-overview.png)
 
-<svg xmlns="http://www.w3.org/2000/svg">
-    <style>
+<svg xmlns="http://www.w3.org/2000/svg" height="1000">
+    <style src="./style.css">
         table{
             border: none;
         }
