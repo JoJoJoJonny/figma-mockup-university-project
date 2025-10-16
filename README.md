@@ -22,29 +22,20 @@ Di seguito riporto degli screenshot esemplificativi dei mockup.
 
 ## Overview:
 
-|![light mode overview](screenshots/light-mode-overview.png)|![dark mode overview](screenshots/dark-mode-overview.png)|
-|-----|-----|
+![light mode overview](screenshots/light-mode-overview.png)
+
+![dark mode overview](screenshots/dark-mode-overview.png)
 
 ## DomuNet Home:
-![homepage](screenshots/homepage.png)
 
-![dashboard](screenshots/dashboard.png)
-
-![stanze](screenshots/stanze.png)
-
-![statistiche](screenshots/statistiche.png)
-
-![notifiche](screenshots/notifiche.png)
-
-![dispositivi](screenshots/dispositivi.png)
+|![homepage](screenshots/homepage.png)|![dashboard](screenshots/dashboard.png)|
+|-----|-----|
+|![stanze](screenshots/stanze.png)|![statistiche](screenshots/statistiche.png)|
+|![notifiche](screenshots/notifiche.png)|![dispositivi](screenshots/dispositivi.png)|
 
 ## DomuNet Community:
-![community](screenshots/community.png)
-
-![forum](screenshots/forum.png)
-
-![leaderboard](screenshots/leaderboard.png)
-
-![learn](screenshots/learn.png)
+|![community](screenshots/community.png)|![forum](screenshots/forum.png)|
+|-----|-----|
+|![leaderboard](screenshots/leaderboard.png)|![learn](screenshots/learn.png)|
 
 ---
