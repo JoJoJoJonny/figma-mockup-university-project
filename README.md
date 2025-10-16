@@ -21,9 +21,8 @@ Al seguente [link](https://www.figma.com/proto/ldc2GuWpKz8XZmTlJyJN4l/Scrollable
 Di seguito riporto degli screenshot esemplificativi dei mockup.
 
 ## Overview:
-![light mode overview](screenshots/light-mode-overview.png)
-
-![dark mode overview](screenshots/dark-mode-overview.png)
+|![light mode overview](screenshots/light-mode-overview.png)|![dark mode overview](screenshots/dark-mode-overview.png)|
+|--|--|
 
 ## DomuNet Home:
 ![homepage](screenshots/homepage.png)
