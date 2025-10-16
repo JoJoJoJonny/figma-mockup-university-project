@@ -30,29 +30,27 @@ Di seguito riporto degli screenshot esemplificativi dei mockup.
 
 ## DomuNet Home:
 
-<table width="100%" align="center">
+<table width="100%" align="center" border="0">
     <tr>
-        <td width="50%">
+        <td width="33%">
             <img src="screenshots/homepage.png" width="100%">
         </td>
-        <td width="50%">
-            <img src="screenshots/dashboard.png">
+        <td width="33%">
+            <img src="screenshots/dashboard.png" width="100%">
+        </td>
+        <td width="33%">
+            <img src="screenshots/stanze.png" width="100%">
         </td>
     </tr>
     <tr>
-        <td width="50%">
-            <img src="screenshots/stanze.png">
+        <td width="33%">
+            <img src="screenshots/statistiche.png" width="100%">
         </td>
-        <td width="50%">
-            <img src="screenshots/statistiche.png">
+        <td width="33%">
+            <img src="screenshots/notifiche.png" width="100%">
         </td>
-    </tr>
-    <tr>
-        <td width="50%">
-            <img src="screenshots/notifiche.png">
-        </td>
-        <td width="50%">
-            <img src="screenshots/dispositivi.png">
+        <td width="33%">
+            <img src="screenshots/dispositivi.png" width="100%">
         </td>
     </tr>
 </table>
