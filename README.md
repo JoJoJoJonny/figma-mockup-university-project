@@ -2,13 +2,7 @@
 ---
 
 
-<p align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JoJoJoJonny/figma-mockup-university-project/blob/main/img/logo%20DomuNet%20bianco%20senza%20sfondo.png" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github.com/JoJoJoJonny/figma-mockup-university-project/blob/main/img/logo%20DomuNet%20nero%20senza%20sfondo.png" />
-        <img alt="logo domunet" src="img/solo logo senza sfondo.png">
-    </picture>
-</p>
+
 
 DomuNet è sia un'applicazione (fittizia) per controllare i dispositivi che un social network, pensato per rivoluzionare il concetto di domotica e portarlo nelle case di tutti.
 
