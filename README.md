@@ -2,7 +2,11 @@
 ---
 
 <p align="center">
-    <img src="img/logo DomuNet bianco senza sfondo.png"/>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="img/logo DomuNet bianco senza sfondo.png" />
+        <source media="(prefers-color-scheme: light)" srcset="img/logo DomuNet nero senza sfondo.png" />
+        <img src="img/logo DomuNet bianco senza sfondo.png"/>
+    </picture>
 </p>
 
 DomuNet è sia un'applicazione (fittizia) per controllare i dispositivi che un social network, pensato per rivoluzionare il concetto di domotica e portarlo nelle case di tutti.
